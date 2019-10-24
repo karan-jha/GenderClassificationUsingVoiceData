@@ -1,6 +1,6 @@
-UPDATE TO COME!
 
-[![Build Status](https://travis-ci.com/SuperKogito/Voice-based-gender-recognition.svg?branch=master)](https://travis-ci.com/SuperKogito/Voice-based-gender-recognition)
+
+
 
 # Voice-based-gender-recognition
 Voice based gender recognition using:
@@ -31,8 +31,7 @@ A Gaussian Mixture Model (GMM) is a parametric probability density function repr
 </p>
 
 ---------------  
-- #### For a more detailed explanation, please refer to this [blog](https://superkogito.github.io/blog/VoiceBasedGenderRecognition.html) that I have written.
------------------
+
 
 ## Dependencies
 This script require the follwing modules/libraries:
